@@ -1,2 +1,2 @@
 # git-learn
-Learning GitHub
+Learning GitHub Elzero Web School
